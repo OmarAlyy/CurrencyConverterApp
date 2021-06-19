@@ -25,12 +25,10 @@ Simple currency display and converter application, created with
 
 
 # Screenshots
-![](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102964.png)
-![](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102972.png)
-![](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624103006.png) 
-![](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624103026.png)
-![](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624103033.png) 
-![](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102993.png)
+![](https://user-images.githubusercontent.com/17040639/69147062-345e0c00-0af7-11ea-9011-b1253df76045.png)
+![](https://user-images.githubusercontent.com/17040639/69147203-71c29980-0af7-11ea-9b64-87b145417f25.png)
+![](https://user-images.githubusercontent.com/17040639/69147251-8acb4a80-0af7-11ea-89be-232bd27d8650.png)
+
 
     
 ### reference resources:
