@@ -9,7 +9,7 @@ Simple currency display and converter application, created with
 - Dagger Hilt
 - Navigation Components
 - ViewBinding
-- livedata
+- Livedata
   
 
 # Architecture
@@ -24,7 +24,12 @@ Simple currency display and converter application, created with
 
 
 
-
+# Screenshots
+| Main Screen | Detail |  Favs |
+|:-:|:-:|:-:|
+| ![Fist](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102964.png?raw=true) | ![3](screenshots/light_2.png?raw=true) | ![3](screenshots/light_3.png?raw=true) |
+| Main Screen Dark | Detail Dark |  Favs Dark |
+| ![4](screenshots/dark_1.png?raw=true) | ![5](screenshots/dark_2.png?raw=true) | ![6](screenshots/dark_3.png?raw=true) |
 
 
     
