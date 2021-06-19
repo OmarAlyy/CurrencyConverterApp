@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+     <color name="windowBackground">#001719</color>
+    <color name="colorAccent">#4393F5</color>
+
+    <color name="textColor">@android:color/white</color>
+    <color name="bulbColor">@android:color/white</color>
+
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.omaraly.currency.ui.converter.ConverterViewModel" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/windowBackground"
+        tools:context=".ui.converter.FragmentConverter">
+
+
+        <LinearLayout
+            style="@style/linearLayout_H_style"
+            android:padding="10dp"
+            android:layout_height="100dp">
+
+            <TextView
+                android:id="@+id/base"
+                android:text="@string/eur"
+                android:layout_weight="0"
+                android:layout_width="wrap_content"
+                style="@style/text_value_style" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="0dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_weight="1"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_height="match_parent">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:inputType="number"
+                    android:maxLength="7"
+                    android:text="@={viewModel.baseValue}"
+                    android:onTextChanged="@{viewModel.onBaseChanged}"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/eur" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+        </LinearLayout>
+
+        <View
+            tools:showIn="@layout/fragment_converter"
+            style="@style/line_style" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvRates"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            tools:listitem="@layout/item_rates"
+            style="@style/RecyclerViewStyle" />
+
+    </LinearLayout>
+</layout>

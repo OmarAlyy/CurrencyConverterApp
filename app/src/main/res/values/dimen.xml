@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <dimen name="dimen_4">4dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+
+    <dimen name="common_radius">14dp</dimen>
+    <dimen name="common_elevation">8dp</dimen>
+
+    <dimen name="home_card_size">60dp</dimen>
+
+    <dimen name="text_size_normal">20sp</dimen>
+
+</resources>

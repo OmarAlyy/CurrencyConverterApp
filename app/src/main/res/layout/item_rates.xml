@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardCornerRadius="@dimen/common_radius"
+    app:cardElevation="@dimen/common_elevation"
+    style="@style/card_item_style">
+
+    <LinearLayout style="@style/linearLayout_H_style">
+
+        <com.google.android.material.card.MaterialCardView
+            app:cardBackgroundColor="@color/windowBackground"
+            app:cardCornerRadius="@dimen/common_radius"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            style="@style/small_card_text">
+
+            <TextView
+                android:id="@+id/tvKey"
+                tools:text="EGP"
+                style="@style/key_text_style" />
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <TextView
+            android:id="@+id/tvValue"
+            tools:text="0.900091"
+            style="@style/text_value_style" />
+
+
+        <ImageView
+            android:id="@+id/imgDone"
+            android:src="@drawable/ic_baseline_done"
+            style="@style/icon_style" />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
