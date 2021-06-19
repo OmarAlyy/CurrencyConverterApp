@@ -25,9 +25,12 @@ Simple currency display and converter application, created with
 
 
 # Screenshots
-![](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102964.png)
-![](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102972.png)
-![](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624103006.png)
+    # Screenshots
+     |:-:|:-:|:-:|
+    | ![Fist](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102964.png?raw=true) | ![3](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102972.png?raw=true) | ![3](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624103006.png?raw=true) |
+    | Main Screen Dark | Detail Dark |  Favs Dark |
+    | ![4](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624103026.png?raw=true) | ![5](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624103033.png?raw=true) | ![6](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102993.png?raw=true) |
+
 
 
     
