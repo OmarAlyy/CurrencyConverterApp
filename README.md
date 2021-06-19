@@ -25,9 +25,9 @@ Simple currency display and converter application, created with
 
 
 # Screenshots
-| Main Screen | Detail |  Favs |
+| splash Screen | rates |  converter |
 |:-:|:-:|:-:|
-| ![Fist](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102964.png?raw=true) | ![3](screenshots/light_2.png?raw=true) | ![3](screenshots/light_3.png?raw=true) |
+| ![Fist](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102964.png?raw=true) | ![3](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624102972.png?raw=true) | ![3](https://github.com/OmarAlyy/CurrencyConverterApp/blob/main/readme-images/Screenshot_1624103006.png?raw=true) |
 | Main Screen Dark | Detail Dark |  Favs Dark |
 | ![4](screenshots/dark_1.png?raw=true) | ![5](screenshots/dark_2.png?raw=true) | ![6](screenshots/dark_3.png?raw=true) |
 
